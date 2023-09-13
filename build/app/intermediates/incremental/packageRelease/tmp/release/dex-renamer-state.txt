@@ -1,0 +1,4 @@
+#Wed Sep 13 22:05:29 IST 2023
+base.0=C\:\\Users\\agamt\\OneDrive\\Desktop\\flutter\\wordpairgenerator\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
